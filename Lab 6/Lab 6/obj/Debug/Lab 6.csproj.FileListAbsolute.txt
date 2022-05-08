@@ -1,0 +1,8 @@
+C:\University\Programming of discrete structures\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\University\Programming of discrete structures\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\University\Programming of discrete structures\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\University\Programming of discrete structures\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.AssemblyReference.cache
+C:\University\Programming of discrete structures\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\University\Programming of discrete structures\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\University\Programming of discrete structures\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
+C:\University\Programming of discrete structures\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.SuggestedBindingRedirects.cache
